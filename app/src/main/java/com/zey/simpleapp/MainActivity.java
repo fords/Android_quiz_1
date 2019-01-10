@@ -23,5 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
         answerEdt = findViewById(R.id.ans);
         submitButton = findViewById(R.id.submit);
+        progressBar = findViewById(R.id.progress);
     }
 }
