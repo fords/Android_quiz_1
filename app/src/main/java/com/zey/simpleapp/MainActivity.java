@@ -17,5 +17,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        questionCountLabel = findViewById(R.id.numQ);
+        questionLabel = findViewById(R.id.question);
+        scoreLabel = findViewById(R.id.score);
+
+        answerEdt = findViewById(R.id.ans);
+        submitButton = findViewById(R.id.submit);
     }
 }
