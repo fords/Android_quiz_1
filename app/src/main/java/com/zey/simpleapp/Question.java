@@ -7,19 +7,19 @@ public class Question {
         answerS = answer;
     }
 
-    public String getquestionS() {
+    public String getQuestion() {
         return questionS;
     }
 
-    public void setquestionS(String question) {
+    public void setQuestion(String question) {
         questionS = question;
     }
 
-    public String getanswerS() {
+    public String getAnswer() {
         return answerS;
     }
 
-    public void setanswerS(String answer) {
+    public void setAnswer(String answer) {
         answerS = answer;
     }
 
