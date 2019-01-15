@@ -128,10 +128,10 @@ public class MainActivity extends AppCompatActivity {
     public void setUpQuestion(){
 
 
-        questionArrayList.add(new Question(" 1/1 =  ","1"));
-        questionArrayList.add(new Question(" 2*9 =  ","18"));
+        questionArrayList.add(new Question(" 1/1 = ","1"));
+        questionArrayList.add(new Question(" 2*9 = ","18"));
         questionArrayList.add(new Question(" 9*9 = ","81"));
-        questionArrayList.add(new Question(" 4*5? = ","20"));
+        questionArrayList.add(new Question(" 4*5 = ","20"));
         questionArrayList.add(new Question(" 23*3 = ","69"));
 
 
